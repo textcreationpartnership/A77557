@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Ireland. Or, A true relation of a great victory obtained by the Protestants in the province of Munster in Ireland. Where 400. horse and 1600. foot under the command of the Lord Inchequeene, and the Earle of Corkes sonne, overthrew the army of the rebels consisting of 10000. horse and foot. Also the number of the rebels that were slaine in the battell, with the surprising of three pieces of their ordnance, one of which was called the Elizabeth of Limericke, with 7. barrels of powder and match. Likewise a confirmation of the Earle of Corkes sonne, slaine in this service. Sent in a letter from Lieutenant Colonell Broket, Governour of Kinsale, to his brother Mr. Samuell Broket grocer on Snow-hill London, Septemb. 29. 1642. With an order of both Houses of Parliament, for raising 1000. dragoneers in London. Hen. Elsinge, Cler. Parl. D. C.</title>
+            <author>Brocket, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77557</idno>
+            <idno type="STC">Wing B4846</idno>
+            <idno type="STC">Thomason E121_8</idno>
+            <idno type="STC">ESTC R22590</idno>
+            <idno type="EEBO-CITATION">99871794</idno>
+            <idno type="PROQUEST">99871794</idno>
+            <idno type="VID">124211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124211)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Ireland. Or, A true relation of a great victory obtained by the Protestants in the province of Munster in Ireland. Where 400. horse and 1600. foot under the command of the Lord Inchequeene, and the Earle of Corkes sonne, overthrew the army of the rebels consisting of 10000. horse and foot. Also the number of the rebels that were slaine in the battell, with the surprising of three pieces of their ordnance, one of which was called the Elizabeth of Limericke, with 7. barrels of powder and match. Likewise a confirmation of the Earle of Corkes sonne, slaine in this service. Sent in a letter from Lieutenant Colonell Broket, Governour of Kinsale, to his brother Mr. Samuell Broket grocer on Snow-hill London, Septemb. 29. 1642. With an order of both Houses of Parliament, for raising 1000. dragoneers in London. Hen. Elsinge, Cler. Parl. D. C.</title>
+                  <author>Brocket, William.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 6. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boyle of Kinalmeaky, Lewis Boyle, --  Viscount, 1619-1642.</term>
+               <term>Munster (Ireland) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124211:1"/>
+            <pb facs="tcp:124211:1" rendition="simple:additions"/>
+            <p>Good Newes From IRELAND.</p>
+            <p>OR A True Relation of a great Vic<g ref="char:EOLhyphen"/>tory obtained by the Proteſtants in the Province of <hi>Munſter</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>Where 400. Horſe and 1600. Foot under the Command of the Lord <hi>Inchequeene,</hi> and the Earle of <hi>Corkes</hi> Sonne, overthew the Army of the Rebels conſiſting of 10000. Horſe and Foot.</p>
+            <p>Alſo the number of the Rebels that were ſlaine in the Battell, with the ſurpriſing of three Pieces of their Ordnance, one of which was called the <hi>Elizabeth</hi> of <hi>Limericke,</hi> with 7. Barrels of Powder and Match.</p>
+            <p>Likewiſe a Confirmation of the Earle of <hi>Corkes</hi> Sonne, ſlaine in this ſervice.</p>
+            <p>Sent in a Letter from Lieutenant Colo<g ref="char:EOLhyphen"/>nell <hi>Broket,</hi> Governour of <hi>Kinſale,</hi> to his Brother Mr. <hi>Samuell Broket</hi> Grocer on <hi>Snow</hi>-hill <hi>London,</hi> Septemb. 29. 1642.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>With an Order of both Houſes of Parliament, for raiſing</hi> 1000. <hi>Dragoneers in</hi> LONDON.</p>
+                  <closer>
+                     <signed>Hen. Elſinge, Cler. Parl. D.C.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>London, Printed for <hi>I. Thomas,</hi> Octob. 6. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124211:2"/>
+            <pb n="1" facs="tcp:124211:2"/>
+            <head>Good Newes from <hi>JRELAND, October</hi> 3. 1642.</head>
+            <opener>
+               <salute>BROTHER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His is to acquaint you, how we drew all our forces we had in <hi>Munſtor</hi> to<g ref="char:EOLhyphen"/>geather, to give the Rebels Battaile, who were comming to lay their ſeige before <hi>Corke;</hi> And being very ſtrong, having with them the beſt Demicannon that was in the Caſtle of <hi>Limericke,</hi> and 2. Sakers, the one of braſſe, and the other of Jron, with the which they have taken the Caſtle of <hi>Aſhketon,</hi> my Lady <hi>Dudleys</hi> Caſtle, and all the Caſtles within 20. myles of us, in the province of <hi>Munſter,</hi> and the Lord <hi>Muskery,</hi> L. <hi>Roch,</hi> Generall <hi>Barry, Purcell,</hi> and all the reſt of the Rebels Cavalrye, did ingage all the honour and creditt, and the Major of <hi>Limericke</hi> alſo, to the value of many Thouſand pounds, for the ſafe returne of the aforeſaid <hi>Guns</hi> into <hi>Limericke</hi> againe. Upon Wedneſday the laſt of <hi>Auguſt,</hi> Orders came from my L. <hi>Jnche queen</hi> to <hi>Kinſale,</hi> that 100 men might be choſen pre<g ref="char:EOLhyphen"/>ſently to march, with the which 100. men, I was
+<pb n="2" facs="tcp:124211:3"/>by my Lord <hi>Inchequeene</hi> commanded to goe withall, vpon Thurſday the 1. day of September I marched from Kinſale by 3. a clock in the morning, and came to <hi>Corke</hi> by 12 of the clock and was commanded to march through the Towne to a place where my Lord <hi>Inchequeen</hi> himſelfe muſtered his forces, to know how ſtrong we were for preſent ſervice after that we preſently marched away and came to <hi>Mallow</hi> that night, being 12 miles from <hi>Corke,</hi> and vpon Friday the ſecond of September, we marched to <hi>Butfoard,</hi> being 4 miles further where we met together with all the forces we could make in the whole Province of <hi>Munſter, viz.</hi> from <hi>Kinſale, Bandonbridge, Corke,</hi> and <hi>Youghall,</hi> and we were found ſtrong about ſome 400. horſe and 1600. foote, and our horſe was very ill horſt and armed, yet nevertheleſſe, my Lord, and all of vs did put on our reſolution to fight, the Rebells Campe was then within foure miles of us, and did lye in ſuch a place, where they had a bogge about them, they being of horſe and foote about ten thouſand ſtrong, all very well armed, they having 3 times as many Musketiers as we had, alſo better horſe, and better armed then our horſe by farre.</p>
+            <pb n="3" facs="tcp:124211:3"/>
+            <p>The enemy likewiſe had 100. Muskets that they wanted men to cary them, but they made an account to have gotten all <hi>Munſter</hi> before Michaelmas day. This day above mentioned, we ſaw ſome 600. of the Rebels Horſe, on Satterday being the 3. of September, about 4. of the clock in the morning, we marched towards them to <hi>Priſtcarel,</hi> where they were ſtrongly encamped having made a ſtrong Fort, with the great Peece called the <hi>Elizabeth</hi> of <hi>Limericke</hi> mounted ther<g ref="char:EOLhyphen"/>upon, and hard by that they had a Battery, where the 2. other Guns were mounted, and a great high ditch round about this Fort, and the Bat<g ref="char:EOLhyphen"/>tery, and within a Musket ſhot from thence, they had a Breſtworke, and within halfe a Musket ſhot from the fort, they had a ſtrong Caſtle which they tooke but the night before, and be<g ref="char:EOLhyphen"/>tween theſe, a fortification of great ſtrength, there the Rebels ſtood in Bataile array.</p>
+            <p>And this Satterday Morning about Eight of the Clocke, our Feild peeces played upon them; And their peeces played upon us.</p>
+            <p>And thus continuing till about nine of the
+<pb n="4" facs="tcp:124211:4"/>clocke in the morning, our horſe and 500. Mus<g ref="char:EOLhyphen"/>ketiers did charge the body of the Rebels, and I was (my ſelfe) commanded to charge upon a for<g ref="char:EOLhyphen"/>lorne hope onely with a 100. Musketiers, our Horſe was once beaten to a retreat, in which time, we all thought to have had the worſt of the day, but we ſtood to it with 500. Musketiers, and having by the Almighty providence of God, the Sun and the Winde on our backs, blinded them ſo with the ſmoake of our guns, that ther<g ref="char:EOLhyphen"/>by both their horſe and foote confnſedly made their retreat, upon the which, all our horſe charg<g ref="char:EOLhyphen"/>ed moſt bravely the ſecond time upon them, and likewiſe ſo did theſe 500. Musketiers, and did put them all to flight, into, and over the boggs; and moreover they did forſake their Breſtworke, Battery, Fort, and Caſtle, where we tooke the great gun called the <hi>Beſſe</hi> of <hi>Limericke,</hi> being of 6.80 weight, and the other 2. ſakers, with ſome 5. barrells of powder, and 2. barrells of match, all the hands of our ſide that came to fight that day was onely 500. musketiers at the moſt, and hardly 400. horſe, we hold it, (for which we give God wany thanks) the greateſt overthrow that ever the Rebels hath had, they being ſo
+<pb n="5" facs="tcp:124211:4"/>mighty and ſtrong, and we ſo weake; we ſlew above 1200. of them, being all moſt of their cheifeſt Commanders, and we loſt but 12. at the moſt, onely the greateſt loſſe that we had, the which did encourage the Rebels very much before we came to the Bataile, that the Gover<g ref="char:EOLhyphen"/>nor of <hi>Bandonbridge,</hi> was kild out of an Am<g ref="char:EOLhyphen"/>buſh, and ſtript naked, he was the Lord of <hi>Kine<g ref="char:EOLhyphen"/>almekie,</hi> the Earle of <hi>Corkes</hi> Sonne.</p>
+            <p>Wee took Colonell <hi>Butler</hi> priſoner, <hi>Purſell</hi> is ſhott, and they ſay my Lord <hi>Muſkery,</hi> I ſaw Ge<g ref="char:EOLhyphen"/>nerall <hi>Barry</hi> run hard for it upon his white horſe, and the Major of <hi>Limericke</hi> with him, all the for<g ref="char:EOLhyphen"/>ces that wee left behinde us in all our Garriſons in Munſter, was not above 2 or 300 men, able to paſſe vpon duty, therefore all the province of Munſter ſtood vpon us then, &amp; now we ſtand in a great deale of extremitye, for want of more forces, for about 5000. horſe and foote would cleare this province and preſerve it, our compa<g ref="char:EOLhyphen"/>ny here have recruted, and the ſouldiers and Offi<g ref="char:EOLhyphen"/>cers in generall do ſtand in great neede of their pay, and wee ſtand in great doubt, that wee ſhall be in great want of Victualls before winter is halfe done, becaueſe we are not ſtrong enough
+<pb n="6" facs="tcp:124211:5"/>to fetch it in, this was the great worke of the Lord who did direct and fight for us, that his power and providence in his owne cauſe might be the more cleerly diſcerned by us, for they had all taken the Sacrament to fight it out to the laſt man, alſo it was reported the Fryers had given many of them charmes to keepe them ſhotfree, ſo in every thing it is plain, the Lord was our deliverer, and we ſhall I hope in few dayes be able to gather ſome reliefe for our Townes, ſo I Reſt.</p>
+            <closer>
+               <dateline>
+                  <hi>Kinſale,</hi> 
+                  <date>Sept. 19. 1642.</date>
+               </dateline>
+               <signed>Your Loving Brother, <hi>William Broket,</hi> Governour of Kinſale.</signed>
+            </closer>
+            <argument>
+               <p>
+                  <hi>THis Letter Was brought over by Maſter</hi> Edmond Broket September 29. 1642. <hi>VVho is Enſigne to his Brother Lieu<g ref="char:EOLhyphen"/>tenant Colonell</hi> Broket <hi>Governour of</hi> Kinſale, <hi>and Brother to Mr.</hi> Samuell Broket <hi>Grocer at the</hi> Mayden-head <hi>upon</hi> Snow-Hill, <hi>who can attest the truth of this Relation, and deſires it may be Printed and publiſhed, That it might communicate to the High Court of Parliament.</hi>
+               </p>
+            </argument>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <head>DIE LUNAE OCTOBER, 4. 1642.</head>
+            <p>IT is this day Ordered by the Lords and Commons aſſembled in Parliament: That ſuch perſons as will advance Horſes and Armes towards the furniſh<g ref="char:EOLhyphen"/>ing of the Thouſand Dragoneirs, mentioned in an Order of both Houſes of Parliament, made the 29. of September laſt, ſhall have the Publique Faith for their ſecurity for the prices thereof, with ſuch other Recompence as the Sub<g ref="char:EOLhyphen"/>ſcribers of the 16000. pounds mentioned in the ſame Order are to have, and that Maſter Maximilian Bard and others already appointed; for buying Horſes for the ſaid Thouſand Dragoneirs, or any three of them ſhall be perſons ap<g ref="char:EOLhyphen"/>pointed for the vale wing and priſing of the ſaid Horſes and Armes ſo to be ad<g ref="char:EOLhyphen"/>vanced. And the Horſes are to be brought to Moore-fields, there to be view<g ref="char:EOLhyphen"/>ed and prized.</p>
+            <closer>
+               <signed>Hen: Elſinge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124211:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
